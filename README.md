@@ -1,10 +1,10 @@
-# Image similarity search using Perceptual Hashing
+## Image similarity search using Perceptual Hashing
 ---
 This project explores how computer vision techniques can be applied to digital image collections. I wanted to apply technology to my personal photography portfolio composed of over 11,000 images in a way that helps me organize it efficiently. Searching for visual similarities across such a large archive would be very time consuming to do manually. This tool automates that process by finding patterns and connections.
 
 ---
 
-## What This Project Does
+# What This Project Does
 
 1. Extracts metadata from images (dimensions, color statistics, visual characteristics)
 2. Creates visual fingerprints using perceptual hashing (pHash)
@@ -13,16 +13,16 @@ This project explores how computer vision techniques can be applied to digital i
 
 ---
 
-## Why This Matters for Cultural Heritage
+# Why This Matters for Cultural Heritage
 
 Museums, archives, and cultural institutions manage vast digital collections. Finding connections between objects is traditionally done manually by experts. Computational tools assist curators in discovering visual patterns, identify potential duplicates or related works across large archives and reveal unexpected connections that human eyes might miss.
 
 This project is just a small-scale exploration of these ideas that still needs to be polished.
 
----
-
-### What is a Hash?
+# What is a Hash?
 Hashing is an umbrella term for techniques to create a short identifier for files on a computer system. Such files can be images, videos, music, Word documents, executables, or any other file on a computer system. A **perceptual hash (pHash)** is a fingerprint of a multimedia file derived from various features from its content. PHashes are "close" to one another if the features are similar.
+
+---
 
 ### Running the Metadata Explorer
 
