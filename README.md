@@ -8,16 +8,15 @@ This project explores how computer vision techniques can be applied to digital i
 1. Extracts metadata from images (dimensions, color statistics, visual characteristics)
 2. Creates visual fingerprints using perceptual hashing (pHash)
 3. Compares fingerprints to find visually similar images in a collection
-4. Explains the results
 
 ### Why This Matters for Cultural Heritage
 
-Museums, archives, and cultural institutions manage vast digital collections. Finding connections between objects is traditionally done manually by experts. Computational tools assist curators in discovering visual patterns, identify potential duplicates or related works across large archives and reveal unexpected connections that human eyes might miss.
+Museums, archives and cultural institutions manage vast digital collections. Computational tools can assist curators in discovering visual patterns, identifying potential duplicates or related works across large archives. That can reveal unexpected connections that human eyes might miss.
 
 This project is just a small-scale exploration of these ideas that still needs to be polished.
 
 ### What is a Hash?
-Hashing is an umbrella term for techniques to create a short identifier for files on a computer system. Such files can be images, videos, music, Word documents, executables, or any other file on a computer system. A **perceptual hash (pHash)** is a fingerprint of a multimedia file derived from various features from its content. PHashes are "close" to one another if the features are similar.
+Hashing is an umbrella term for techniques to create a short identifier for files on a computer system. Such files can be images, videos, music, Word documents or any other file on a computer system. A **perceptual hash (pHash)** is a fingerprint of a multimedia file derived from various features from its content. PHashes are "close" to one another if the features are similar.
 
 ---
 
